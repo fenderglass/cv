@@ -12,7 +12,7 @@ You can also find my articles on
 [metaFlye: scalable and accurate long-read metagenome assembler](https://www.biorxiv.org/content/10.1101/637637v1), _bioRxiv_ (2019)
 
 * Evgeny Polevikov and **Mikhail Kolmogorov**. 
-[Synteny paths for assembly graphs comparison](http://drops.dagstuhl.de/opus/volltexte/2019/11054/), _WABI_ (2019)
+[Synteny paths for assembly graphs comparison](http://drops.dagstuhl.de/opus/volltexte/2019/11054/), _WABI_ 24:1-24:14 (2019)
 
 * **Mikhail Kolmogorov**, Jeffrey Yuan, Yu Lin & Pavel Pevzner. 
 [Assembly of long error-prone reads using repeat graphs](https://www.nature.com/articles/s41587-019-0072-8),
