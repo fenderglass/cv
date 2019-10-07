@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "Bio"
+    url: /about/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+    #- title: "Talks"
+    #url: /talks/    
 
     #- title: "Teaching"
     #url: /teaching/    
@@ -16,7 +19,7 @@ main:
     #url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/kolmogorov_cv.pdf
     
     #- title: "Guide"
     #url: /markdown/
