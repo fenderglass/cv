@@ -18,7 +18,7 @@ in the [Computer Science and Engineering Depertment](https://cse.ucsd.edu/)
 at UCSD, under the mentorship of Pavel Pevzner.
 
 My research focus is bioinformatics. In particular, I am interested in algorithms
-for genome assembly using long reads, that enable high-quality reconstruction
+for genome assembly using long reads, which enable high-quality reconstruction
 of the human genome sequence. I also work on tools for comparative genomics and computational proteomics.
 
 Research projects
