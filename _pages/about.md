@@ -12,7 +12,7 @@ Bio
 ===
 
 I am a Postdoctoral Fellow at the University of California San Diego, 
-where I am co-suprevised by [Rob Knight](https://knightlab.ucsd.edu/) and 
+co-suprevised by [Rob Knight](https://knightlab.ucsd.edu/) and 
 [Pavel Pevzner](https://bioalgorithms.ucsd.edu/). I completed my PhD in September 2019 
 in the [Computer Science and Engineering Depertment](https://cse.ucsd.edu/) 
 at UCSD, under the mentorship of Pavel Pevzner.
