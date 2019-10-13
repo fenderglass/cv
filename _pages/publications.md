@@ -8,6 +8,9 @@ author_profile: true
 You can also find my articles on 
 <a href="https://scholar.google.com/citations?user=wc5LHGcAAAAJ">my Google Scholar profile</a>.
 
+Journal and refereed conference publications
+--------------------------------------------
+
 *  **Mikhail Kolmogorov**, Mikhail Rayko, Jeffrey Yuan, Evgeny Polevikov & Pavel Pevzner.
 [metaFlye: scalable and accurate long-read metagenome assembler](https://www.biorxiv.org/content/10.1101/637637v1), _bioRxiv_ (2019)
 
@@ -57,3 +60,23 @@ _Bioinformatics_ 30 (12), i302-i309 (2014)
 * Ilya Minkin, Anand Patel, **Mikhail Kolmogorov**, Nikolay Vyahhi, Son Pham,
 [Sibelia: a scalable and comprehensive synteny block generation tool for closely related microbial genomes](https://link.springer.com/chapter/10.1007/978-3-642-40453-5_17),
 WABI (2013)
+
+Conference oral presentations
+-----------------------------
+
+* "Synteny paths for assembly graphs comparison". Workshop on Algorithms in Bioinformatics 2019, Niagara Falls, NY (proceedings author)
+
+* "Assembly of long error-prone reads using repeat graphs". AGBT 2019, Marco Island, FL  (selected abstract)
+
+* "Single-Molecule Protein Identification by Sub-Nanopore Sensors". HUPO 2018, Orlando, FL (selected abstract)
+
+* "Assembly of long error-prone reads using repeat graphs". RECOMB 2018, Paris, France (proceedings author)
+
+* "Assembly of long error-prone reads using repeat graphs". PAG 2018, San Diego, CA (invited)
+
+* "Single-Molecule Protein Identification by Sub-Nanopore Sensors". RECOMB-SEQ 2016, Santa Monica, CA (proceedings author)
+
+* "SpectroGene: a tool for proteogenomic annotations using top-down spectra".  ASMS 2015, St. Louis, MO (selected abstract)
+
+* "Ragout - a reference-assisted assembly tool for bacterial genomes". ISMB 2014, Boston, MA (proceedings author)
+
