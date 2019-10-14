@@ -24,6 +24,8 @@ of the human genome sequence. I also work on tools for comparative genomics and 
 Research projects
 =================
 
+
+<img src="../images/flye_graph.png" alt="Flye Graph" style="width:20%;" align="left"/>
 **Long-read assembly using Flye and metaFlye**. 
 The new long-read sequencing technologies (such as Pacific Biosciences or Oxford Nanopore)
 increased the read length up to tens of thousands of nucleotides, and substantially improved
@@ -38,6 +40,9 @@ Flye is good for assembly of human genomes using ultra-long Oxford Nanopore sequ
 We are now working on the new [metaFlye](https://www.biorxiv.org/content/10.1101/637637v1) 
 algorithm for metagenome assembly using long reads. 
 
+<hr>
+
+<img src="../images/Ragout.jpg" alt="Ragout" style="width:30%;" align="left"/>
 **Comparative assembly using multiple references**. 
 Since many de novo assemblies of large genomes are still incomplete, one
 can use the information for related referece genomes to order and orient
@@ -48,7 +53,10 @@ We used Ragout to produce [chromosome assemblies](https://genome.cshlp.org/conte
 of multiple [mice genomes](https://www.nature.com/articles/s41588-018-0223-8), 
 which gave insights into rodent genome evolution and novel functional loci.
 
-**Tools for assembly graph analysis**.The analysis of genome graphs is helpful 
+<hr>
+
+<img src="../images/syntenypaths.png" alt="Synteny Paths" style="width:25%;" align="left"/>
+**Tools for assembly graphs analysis**.The analysis of genome graphs is helpful 
 in studying repeat structure of genomes (for example, mosaic segmental 
 duplications in humans). To visualize large and complex assembly graphs,
 we developed [AGB](https://academic.oup.com/bioinformatics/article-abstract/35/18/3476/5306331/) - 
