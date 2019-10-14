@@ -25,7 +25,7 @@ Research projects
 =================
 
 
-<img src="../images/flye_graph.png" alt="Flye Graph" style="width:20%;" align="left" class="responsive"/>
+<img src="../images/flye_graph.png" alt="Flye Graph" style="width:20%;" align="left"/>
 **Long-read assembly using Flye and metaFlye**. 
 The new long-read sequencing technologies (such as Pacific Biosciences or Oxford Nanopore)
 increased the read length up to tens of thousands of nucleotides, and substantially improved
