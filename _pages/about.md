@@ -25,7 +25,7 @@ Research projects
 =================
 
 
-<img src="../images/flye_graph.png" alt="Flye Graph" style="width:20%;" align="left"/>
+<img src="../images/flye_graph.png" alt="Flye Graph" style="width:20%;" align="left" class="responsive"/>
 **Long-read assembly using Flye and metaFlye**. 
 The new long-read sequencing technologies (such as Pacific Biosciences or Oxford Nanopore)
 increased the read length up to tens of thousands of nucleotides, and substantially improved
@@ -39,6 +39,11 @@ Flye is good for assembly of human genomes using ultra-long Oxford Nanopore sequ
 [CHM13](https://github.com/nanopore-wgs-consortium/CHM13)).
 We are now working on the new [metaFlye](https://www.biorxiv.org/content/10.1101/637637v1) 
 algorithm for metagenome assembly using long reads. 
+
+Watch our Flye assembler presentation and discussion hosted by [Long Read Club](https://www.longreadclub.org/):
+<div class="iframe-container" style="width:60%;">
+<iframe width="280" height="156" src="https://www.youtube.com/embed/It5KXnPBnbg" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <hr>
 
@@ -65,3 +70,4 @@ We have also introduced a new [Synteny Paths](http://drops.dagstuhl.de/opus/voll
 approach for [comparison](https://github.com/epolevikov/Asgan) 
 of two related genomes in a graph from, similarly
 to synteny block for linear genomes.
+
