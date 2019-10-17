@@ -37,6 +37,12 @@ Flye is good for assembly of human genomes using ultra-long Oxford Nanopore sequ
 We are now working on the new [metaFlye](https://www.biorxiv.org/content/10.1101/637637v1) 
 algorithm for metagenome assembly using long reads. 
 
+We develop the long-read assmebly methods with the help of our collaborators from 
+[Rob Knight's lab](https://knightlab.ucsd.edu/), 
+[T2T consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), 
+[Tim Smith's lab](https://www.ars.usda.gov/plains-area/clay-center-ne/marc/gbahru/people/timothy-smith/), 
+[JGI](https://jgi.doe.gov/) and many others.
+
 Watch our Flye assembler presentation and discussion hosted by [Long Read Club](https://www.longreadclub.org/):
 <div class="iframe-container" style="width:60%;">
 <iframe width="280" height="156" src="https://www.youtube.com/embed/It5KXnPBnbg" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -54,6 +60,9 @@ reconstructs the most probable architecture of a target genome.
 We used Ragout to produce [chromosome assemblies](https://genome.cshlp.org/content/28/11/1720.short) 
 of multiple [mice genomes](https://www.nature.com/articles/s41588-018-0223-8), 
 which gave insights into rodent genome evolution and novel functional loci.
+Mouse assemblies were generated as a part of 
+[Mouse genomes sequencing project](https://www.sanger.ac.uk/science/data/mouse-genomes-project),
+hosted by Wellcome Sanger Institute.
 
 <hr>
 
@@ -66,5 +75,7 @@ an interactive graph visualization [tool](https://github.com/almiheenko/AGB).
 We have also introduced a new [Synteny Paths](http://drops.dagstuhl.de/opus/volltexte/2019/11054/) 
 approach for [comparison](https://github.com/epolevikov/Asgan) 
 of two related genomes in a graph from, similarly
-to synteny block for linear genomes.
+to synteny block for linear genomes. The tools were developed in a collaboration
+with the [Center for Algorithmic Biotechnology](http://cab.spbu.ru/) and
+[Bioinformatics Institute](https://bioinf.me/en) in St. Petersburg, Russia.
 
