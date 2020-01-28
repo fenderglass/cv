@@ -36,7 +36,7 @@ _Genome Research_ 28 (4), 448-459 (2018)
 * **Mikhail Kolmogorov**, Eamonn Kennedy, Zhuxin Dong, Gregory Timp and Pavel Pevzner,
 [Single-Molecule Protein Identification by Sub-Nanopore Sensors](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005356)
 _PloS Computational Biology_ 13 (5), e1005356 (2017)
-* Yu Lin*, Jeffrey Yuan*, __Mikhail Kolmogorov*__, Max Shen and Pavel Pevzner,
+* Yu Lin\*, Jeffrey Yuan\*, __Mikhail Kolmogorov\*__, Max Shen and Pavel Pevzner,
 [Assembly of long error-prone reads using de Bruijn graphs](https://www.pnas.org/content/113/52/E8396.short)
 PNAS 113 (52), E8396-E8405, (2016), * equal contribution
 * **Mikhail Kolmogorov**, Xiaowen Liu and Pavel Pevzner,
