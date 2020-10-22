@@ -11,8 +11,10 @@ You can also find my articles on
 Journal and refereed conference publications
 --------------------------------------------
 
-*  **Mikhail Kolmogorov**, Mikhail Rayko, Jeffrey Yuan, Evgeny Polevikov & Pavel Pevzner.
-[metaFlye: scalable and accurate long-read metagenome assembler](https://www.biorxiv.org/content/10.1101/637637v1), _bioRxiv_ (2019)
+*  **Mikhail Kolmogorov**, Derek M. Bickhart, Bahar Behsaz, Alexey Gurevich, Mikhail
+Rayko, Sung Bong Shin, Kristen Kuhn, Jeffrey Yuan, Evgeny Polevikov, Timothy P. L. Smith
+and Pavel A. Pevzner.
+[metaFlye: scalable and accurate long-read metagenome assembler](https://www.nature.com/articles/s41592-020-00971-x), _Nature Methods_ (2020)
 * Evgeny Polevikov and **Mikhail Kolmogorov**. 
 [Synteny paths for assembly graphs comparison](http://drops.dagstuhl.de/opus/volltexte/2019/11054/), _WABI_ 24:1-24:14 (2019)
 * **Mikhail Kolmogorov**, Jeffrey Yuan, Yu Lin & Pavel Pevzner. 
