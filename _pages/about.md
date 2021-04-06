@@ -8,11 +8,13 @@ author_profile: true
 Bio
 ===
 
-I am a Postdoctoral Fellow at the University of California San Diego, 
-co-suprevised by [Rob Knight](https://knightlab.ucsd.edu/) and 
+I am currently a Postdoctoral Fellow at the UC Santa Cruz, 
+supervised by [Benedict Paten](https://cglgenomics.ucsc.edu/).
+Previously, I was a Postdoctoral Fellow at the UC San Diego, 
+co-supervised by [Rob Knight](https://knightlab.ucsd.edu/) and 
 [Pavel Pevzner](https://bioalgorithms.ucsd.edu/). I completed my PhD in September 2019 
 in the [Computer Science and Engineering Depertment](https://cse.ucsd.edu/) 
-at UCSD, under the mentorship of Pavel Pevzner.
+at UC San Diego, under the mentorship of Pavel Pevzner.
 
 My research focus is bioinformatics. In particular, I am interested in algorithms
 for genome assembly using long reads, which enable high-quality reconstruction
@@ -37,23 +39,17 @@ Flye is good for assembly of human genomes using ultra-long Oxford Nanopore sequ
 We are now working on the new [metaFlye](https://www.biorxiv.org/content/10.1101/637637v1) 
 algorithm for metagenome assembly using long reads. 
 
-We develop the long-read assmebly methods with the help of our collaborators from 
+We develop the long-read assembly methods with the help of our collaborators from 
 [Rob Knight's lab](https://knightlab.ucsd.edu/), 
 [T2T consortium](https://sites.google.com/ucsc.edu/t2tworkinggroup), 
 [Tim Smith's lab](https://www.ars.usda.gov/plains-area/clay-center-ne/marc/gbahru/people/timothy-smith/), 
 [JGI](https://jgi.doe.gov/) and many others.
 
-Watch our Flye assembler presentation and discussion hosted by [Long Read Club](https://www.longreadclub.org/):
-<div class="iframe-container" style="width:60%;">
-<iframe width="280" height="156" src="https://www.youtube.com/embed/It5KXnPBnbg" frameborder="20" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-<hr>
 
 <img src="../images/Ragout.jpg" alt="Ragout" style="width:30%;" align="left"/>
 **Comparative assembly using multiple references**. 
 Since many de novo assemblies of large genomes are still incomplete, one
-can use the information for related referece genomes to order and orient
+can use the information for related reference genomes to order and orient
 the contig fragments. We have developed [Ragout](https://github.com/fenderglass/Ragout)
 that infers structural rearrangements between the multiple input refences and 
 reconstructs the most probable architecture of a target genome. 
