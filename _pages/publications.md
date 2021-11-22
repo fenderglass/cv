@@ -19,7 +19,7 @@ Sung Bong Shin, Alvah Zorea, Victòria Pascal Andreu, Kevin Panke-Buisse, Marnix
 Itzik Mizrahi, Pavel Pevzner & Tim Smith._
 
 * [Assembling viruses and identifying their hosts from long-read metagenomics data](https://github.com/Dmitry-Antipov/viralFlye).
-Genome Research, in press (2021)  
+Genome Biology, in press (2021)  
 _Dmitry Antipov, Mikhail Rayko, __Mikhail Kolmogorov__ & Pavel Pevzner._
 
 * [Haplotype-aware variant calling with PEPPER-Margin-DeepVariant enables high accuracy in nanopore long-reads](https://www.nature.com/articles/s41592-021-01299-w).
