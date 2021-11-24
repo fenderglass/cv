@@ -3,14 +3,14 @@ permalink: /
 title: ""
 excerpt: "Bio"
 author_profile: true
+redirect_to: "https://kolmogorovlab.org"
 ---
 
 Moving to the NCI!
 ------------------
 
-In January 2022 I am openning a lab at the [National Cancer Institute](https://ccr.cancer.gov/) as a tenure-track Stadtman Investigator, hosted by the [Cancer and Data Science Laboratory](https://ccr.cancer.gov/cancer-data-science-laboratory).
+In January 2022 I am openning a lab at the [National Cancer Institute](https://ccr.cancer.gov/) as a tenure-track Stadtman Investigator, hosted by the [Cancer and Data Science Laboratory](https://ccr.cancer.gov/cancer-data-science-laboratory). The website has moved to <kolmogorovlab.org>.
 
-The focus of our group will be computational and cancer genomics (and metagenomics). If you are interested in these or related areas and looking for a postdoc - please email or DM me!
 
 Bio
 ===
