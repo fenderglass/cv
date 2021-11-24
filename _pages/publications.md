@@ -3,6 +3,7 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_to: "https://kolmogorovlab.org"
 ---
 
 You can also find my articles on 
